@@ -9,7 +9,7 @@ node server.js
 Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
 
-A walkthrough video that demonstrates the functionality of the note taker app.
+A walkthrough video that demonstrates the functionality of the ecommerce backend app.
 
 
 
