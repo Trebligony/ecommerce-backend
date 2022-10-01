@@ -18,10 +18,8 @@ A walkthrough video that demonstrates the functionality of the note taker app.
 # Screenshots
 
 
-<img src="./assets/images/screen_appview.png">
+<img src="./assets/AddNewProduct.png">
 
-
-<img src="./assets/images/note_screen.png">
 
 
 
