@@ -1,0 +1,8 @@
+.env
+node_modules
+package-lock.json
+.vscode
+.DS_Store
+comments.txt
+notes.txt
+0
