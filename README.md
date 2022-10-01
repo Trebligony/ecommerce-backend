@@ -29,24 +29,39 @@ A walkthrough video that demonstrates the functionality of the note taker app.
 
 Products
 	getAllProducts  		http://localhost:3001/api/products/
+
 	getSingleProduct  	http://localhost:3001/api/products/3
+
 	addNewProduct  		http://localhost:3001/api/products/
+
 	updateSingleProduct  	http://localhost:3001/api/products/4
+
 	deleteSingleProduct  	http://localhost:3001/api/products/1
+
 	
 Categories
 	getAllCategories		http://localhost:3001/api/categories/
+
 	getSingleCategory 	http://localhost:3001/api/categories/3
+
 	addNewCategory 		http://localhost:3001/api/categories/
+
 	updateSingleCategory 	http://localhost:3001/api/categories/4
+
 	deleteSingleCategory	http://localhost:3001/api/categories/1
+
 	
 Tags
 	getAllTags			http://localhost:3001/api/tags/
+
 	getSingleTag 		http://localhost:3001/api/tags/3
+
 	addNewTag 	 		http://localhost:3001/api/tags/
+
 	updateSingleTag 	 	http://localhost:3001/api/tags/4
+
 	deleteSingleTag 		http://localhost:3001/api//tags/1
+
 	
 
 ## User Story
@@ -86,7 +101,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 
-# Link to walkthrough video
+# Link to walkthrough video (YouTube)
 
 https://youtu.be/Kdo1DHAN8Sc
 
