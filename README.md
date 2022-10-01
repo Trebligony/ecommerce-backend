@@ -21,6 +21,18 @@ A walkthrough video that demonstrates the functionality of the note taker app.
 <img src="./Assets/AddNewProduct.png">
 
 
+<img src="./Assets/GetAllProduct.png">
+
+
+<img src="./Assets/GetSingleProduct.png">
+
+
+<img src="./Assets/UpdateNewProduct.png">
+
+
+<img src="./Assets/UpdateSingleTag.png">
+
+
 
 
 ### API Routes Tested
